@@ -1,11 +1,11 @@
 Project: Advanced Web Scraper and Data Processor
    Project Structure:
        scraper/
-          │
-          ├── main.py
-          ├── fetcher.py
-          ├── processor.py
-          └── saver.py
+   /n       │
+   /n       ├── main.py
+   /n       ├── fetcher.py
+   /n       ├── processor.py
+   /n       └── saver.py
 
 1. fetcher.py - Using Asynchronous Programming to Fetch Data
 2. processor.py - Using Parallel Programming to Process Data
